@@ -14,9 +14,7 @@ You can download the APK file for the app from the following link:
 
 Below are some screenshots of the app in action:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+![ToDo App](images\ToDo.mp4)
 
 ## Features
 
